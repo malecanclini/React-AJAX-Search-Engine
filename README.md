@@ -2,15 +2,6 @@
 
 A clean, responsive weather search engine that fetches real-time data from the OpenWeatherMap API using **Axios** and displays the current temperature and atmospheric conditions for any city in the world.
 
----
-
-## 🚀 Demo
-
-> Search any city → get live temperature, humidity, wind speed, pressure, and more.
-
-![preview](https://via.placeholder.com/800x400?text=Weather+Search+Engine+Preview)
-
----
 
 ## ✨ Features
 
@@ -39,11 +30,6 @@ A clean, responsive weather search engine that fetches real-time data from the O
 ## 📦 Installation
 
 1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/weather-search-engine.git
-cd weather-search-engine
-```
 
 2. **Get a free API Key**
 
@@ -101,6 +87,3 @@ weather-search-engine/
 
 ---
 
-## 📄 License
-
-MIT © [Your Name](https://github.com/your-username)
